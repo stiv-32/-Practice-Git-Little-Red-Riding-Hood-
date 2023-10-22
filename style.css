@@ -18,20 +18,26 @@ header img{
     border-radius: 10%;
     margin-top: 2%;
 }
-.start-1{
-    display: flex;
-    align-items: center;
 
+.container{
+    margin-left: 20%;
+    margin-right: 20%;   
 }
-.star-1 img{
+
+img{
     float: left;
-    height: 17rem;
-    width: 17rem;
-    border-radius: 10%;
+    height: 12rem;
+    width: 13rem;
+    border-radius: 8%;
 }
+
 .star-1 p{
-    margin: 2%;
+    text-align: justify;
+    margin-top: 5%;   
 }
-.star-2{
-    margin-top: 20%;
+
+.star-2 p{
+    padding top: 10rem;
+    text-align: justify;
+    margin-top: 5%;   
 }
