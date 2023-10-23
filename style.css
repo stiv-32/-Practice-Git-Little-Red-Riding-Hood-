@@ -9,7 +9,7 @@ header{
     display: flex;
     align-items: center;
     flex-direction: column;
-    margin-bottom: 5rem;   
+    margin-bottom: 5rem;  
 }
 
 header img{
@@ -22,26 +22,18 @@ header img{
 
 .container{
     margin-left: 20%;
-    margin-right: 20%;      
+    margin-right: 20%;    
 }
-
-.star{
-    margin-top:5rem;  
-    text-align: center;  
+.cap{
+    column-count: 2;  
 }
-
-h3{
-    
+.cap img{
+    padding: 5%;
+    width: 17rem;
+    border-radius: 15%; 
+    border:2px solid red;
+}
+h3{   
+    padding: 2%;
     text-align: center;
-    text-shadow: 4px 2px 3px red;
-    font-variant: small-caps;
-}
-img{
-    float: left;
-    height: 12rem;
-    width: 13rem;
-    border-radius: 8%;  
-}
-.star p{
-    margin-top: 4rem;
 }
