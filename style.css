@@ -25,24 +25,23 @@ header img{
     margin-right: 20%;      
 }
 
+.star{
+    margin-top:5rem;  
+    text-align: center;  
+}
+
+h3{
+    
+    text-align: center;
+    text-shadow: 4px 2px 3px red;
+    font-variant: small-caps;
+}
 img{
     float: left;
     height: 12rem;
     width: 13rem;
     border-radius: 8%;  
 }
-
-h3{
-    text-align: center;
-    text-shadow: 4px 2px 3px red;
-    font-variant: small-caps;
-}
-
-.container p{
-    margin-top: 3rem;
-    text-align: justify;  
-}
-
-.container .star-2{
-    margin-top: 10rem;   
+.star p{
+    margin-top: 4rem;
 }
